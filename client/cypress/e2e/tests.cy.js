@@ -14,5 +14,6 @@ describe('Site Tests', () => {
     cy.get('button').contains('3').click()
     cy.get('button').contains('2').click()
     cy.get('button').contains('1').click()
+    cy.get('button').contains('Take New Quiz').click();
   })
   })
