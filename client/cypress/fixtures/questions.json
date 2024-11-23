@@ -1,0 +1,12 @@
+[
+  {
+    "question": "How do you create a tuple in Python?",
+    "options": ["[]", "{}", "()", "tuple"],
+    "answer": "()"
+  },
+  {
+    "question": "What is the output of type(3.14)",
+    "options": ["<class 'int'>", "<class 'float'>", "<class 'complex'>", "<class 'decimal'>"],
+    "answer": "<class 'float'>"
+  }
+]
